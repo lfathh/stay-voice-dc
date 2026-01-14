@@ -1,0 +1,6 @@
+{
+    "Token": "",
+    "Guild": "",
+    "Channel": ""
+}
+
